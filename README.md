@@ -30,7 +30,7 @@ The product team has provided the engineering team with some wireframes of the a
 
 ![flows](./flows.png)
 
-The core features of the application should resolve the follow user stories:
+The core features of the application should resolve the following user stories:
 
 * As a User, I can sign up
 * As a User, I can fill out my personal details, which are:
